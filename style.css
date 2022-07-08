@@ -1,0 +1,33 @@
+body {
+   background: black;
+   color: antiquewhite;
+}
+
+
+.app-wrapper { 
+   width: 1400px;
+   margin: 0 auto;
+
+  
+}
+
+
+
+h1{
+color: rgb(231, 73, 73);
+margin-top: 40px;
+margin-left: 60px;
+}
+
+
+
+.content {
+   display: flex;
+   width: 100%;
+   justify-content: space-between;
+}
+
+.content_text {
+   max-width: 500px;
+
+}
